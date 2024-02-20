@@ -1,0 +1,17 @@
+{
+  "name": "curso-cypress-novo",
+  "version": "1.0.0",
+  "description": "curso cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Aline Macedo",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
